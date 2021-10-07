@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahishnusuresh
+- 👋 Hi, I’m Sahishnu
 
 <!---
 sahishnusuresh/sahishnusuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
